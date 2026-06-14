@@ -13,7 +13,7 @@ ECG signals are typically very weak (approximately 1 mV) and highly susceptible 
 * Power line noise (50 Hz mains)
 * Electrode motion artifacts
 * Baseline drift
-* High-frequency environmental noise
+* High-frequency and relatively higher amplitude environmental noise
 
 The objective of this project was to design a complete signal-conditioning chain capable of:
 
