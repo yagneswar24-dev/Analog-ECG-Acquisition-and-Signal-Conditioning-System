@@ -118,7 +118,7 @@ To validate the signal-conditioning chain:
 
 1. Test pulses were generated using an Arduino Nano.
 2. The generated waveform was passed through the analog filtering stages.
-3. The filtered output was measured again using the Arduino ADC.
+3. The filtered output was measured again using the Arduino ADC(Analog to Digital Converter).
 4. Oscilloscope measurements were used to compare:
 
    * Input waveform
